@@ -1,4 +1,4 @@
-This project performs a comprehensive data analysis on an E-Commerce dataset to uncover business insights, sales trends, and customer behavior patterns using Python.
+This project performs a comprehensive data analysis on an E-Commerce dataset to uncover business insights, sales trends, and customer behavior patterns using Python & Exploratory Data Analysis(EDA).
 
 Objectives
 1. Analyze historical sales data from an e-commerce platform.
